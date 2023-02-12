@@ -34,16 +34,16 @@
     ]
 }
 ~~~
-##### Необходимо выгрузить cледующие поля:
-id - ID персонажа
-birth_year
-eye_color
-films - строка с названиями фильмов через запятую
-gender
-hair_color
-height
-homeworld
-mass
+##### Необходимо выгрузить cледующие поля:  
+id - ID персонажа  
+birth_year  
+eye_color  
+films - строка с названиями фильмов через запятую  
+gender  
+hair_color  
+height  
+homeworld  
+mass  
 name
 skin_color
 species - строка с названиями типов через запятую
